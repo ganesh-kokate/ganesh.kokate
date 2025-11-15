@@ -2,7 +2,7 @@
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ganesh-kokate.github.io/ganesh.kokate",
+  "homepage": "/ganesh-kokate-portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
